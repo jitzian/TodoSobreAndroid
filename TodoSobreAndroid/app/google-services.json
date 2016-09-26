@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "820944483465",
+    "firebase_url": "https://macfinalproject-1f820.firebaseio.com",
+    "project_id": "macfinalproject-1f820",
+    "storage_bucket": "macfinalproject-1f820.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:820944483465:android:4fd97d6eaf0deff9",
+        "android_client_info": {
+          "package_name": "examples.android.mac.com.org.todosobreandroid"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "820944483465-iptvjk1t7bru2pqp7as39bjjh576m444.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC51wsBMDNjg5JyX7ZB0EeYHCrfRs0VBvA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
